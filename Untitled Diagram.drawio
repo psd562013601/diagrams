@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:28:32.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.1.8" etag="NnkUExiERNB6l3xnF_1d" type="github"><diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">7VnbjpswEP2aPG4FmOvj5rK7D61UKVX7TMABaw2mYJqkX9+xYycQQEmkRE27ECnYM4PHnnNsxmaCZtn2tQyL9AuLMZ1YRrydoPnEskzbcuEmJLu9xA2cvSApSayMjoIl+Y2V0FDSmsS4ahlyxignRVsYsTzHEW/JwrJkm7bZmtG21yJMcEewjELalf4gMU+V1DSMo+INkyRVrn1HKVZh9J6UrM6Vv4mF1vLaq7NQt6XsqzSM2aYhQosJmpWM8X0p284wFbHVYds/9zKgPfS7xDm/5AEbR4G3igPsxJZhWv6TauFXSGushyA7ync6OJTkUJpWvGTvh/BAz6cpzygUTSiuCaUzRlkJ9ZxJ+zXLuULa8lVdm0CYDMOeB8Gh3T5Nd3C6t7jkeNsQqcG+YpZhXu7ARGltFfedrqr6poGyoYVpA2HNzFAxKzk0fYwuFFSALwy20wn2kgtmgrYTdWBKIYpsvf4KNrM980WMppuUcLwswkjoNzAjh7GQ4fSchd8GxHS6gLzISwCytzE+OUaAPMdQl3xGRJ7AvHmmJMnBiLOiA6HC/wbomVYbPmT3wOf2oGffAz23Z6q4lIvxF2EO5USUNaJIK8FPUz8C3QO046EHAtq7CmjrHwLaNj3f8eB9Lf9t+QwlxXfl5xT0FeOcZUO4w2AjkidTZTS3b8MFZHvtNdtyLuMCcu7ABf8qLtgjF27KBd8wHogLwflcCVqAnBVfDaNrTp8lPNdlTTobQ/fOo8zg5E0cdIGwenCw7rE+69zsIwIBs/aBgLhg9/C/AuHa6IGAQB8XCN97pKXJHswXUlNnA284jOFl2cgVjjotLLTgMytxJlwWVS3usYwiIEu46Dx0eWLN9kcjFaQQmNdCCw4KUpFIujEwJcqqwrFsQwhJXWVMVDnOCtkmySMSk7jORdO1+KPhCvwLa659Y3mukeShcEPJzzr81BhJMZjyAJy8TTSVNEDNOda+iY3G/AnQ6ScqA2asqTxDSUkc43wwJenQ8ITYC1f8TlIn1EdscYE8VKlQBGTFIlWTBz84VsO5AZeD9ppio+42yDKdLpfN+5B5eMc7knkk89mNnBm02Gw5f5fNw9v6kc0jm88eUdnOQ63NwwcTI5tHNp9js3dy4HrXtRmqxy9cUtf4jIgWfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:55:34.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="5eQUCQMyTqm_YWInUSNN" version="14.1.8" type="github">
+  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-1" value="&lt;h1 class=&quot;heading-h1&quot;&gt;DataHub-数据源管理功能迁移&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="25" y="113" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2021.1.1～2021.2.28&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="163" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-3" value="&lt;h1 class=&quot;heading-h1&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;/h1&gt;&lt;h1 class=&quot;heading-h1&quot;&gt;ETL 技术演进&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="130" width="475" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-4" value="&lt;h1 class=&quot;heading-h1&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;/h1&gt;&lt;h1 class=&quot;heading-h1&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/h1&gt;&lt;h1 class=&quot;heading-h1&quot;&gt;Datahub 可运维性提升&lt;/h1&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="810" y="148" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-9" value="&lt;br&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;数据源管理对接Ymeta&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="213" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-10" value="&lt;br&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: left&quot;&gt;数据源自动化运维管理&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="184" y="213" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-12" value="&lt;span style=&quot;text-align: left&quot;&gt;Hound&amp;amp;Streaming合并&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="345" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2021.3.1～2021.6.4&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="183" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-16" value="数仓ODS层数据自动化构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-17" value="&lt;h4 class=&quot;heading-h4&quot;&gt;&lt;div&gt;基于Flink的实时merge&lt;br&gt;&lt;/div&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="664" y="230" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-20" value="数据入仓运维性能提升" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1;strokeColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="820" y="248" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-22" value="离线ETL运维性提升" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;fontStyle=1;strokeColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="960" y="248" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jT5m-Pq_1kyti12y3-c-23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2021.6.5～2021.6.30&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
