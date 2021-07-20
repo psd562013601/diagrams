@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T02:08:34.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bsnTEDLSF1DDLe-Gsm28" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T02:15:19.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="CnKmgqZjG1oFW7u9Yzu2" version="14.9.0" type="github">
   <diagram id="vKQUK_L88tqBPl6FTPo_" name="Page-1">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,6 +125,17 @@
         </mxCell>
         <mxCell id="zPOfaUPRtYskyF9KzwzK-40" value="&lt;span style=&quot;font-size: 12px ; font-style: italic&quot;&gt;T+1快照任务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zPOfaUPRtYskyF9KzwzK-41" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="1" source="zPOfaUPRtYskyF9KzwzK-2" target="zPOfaUPRtYskyF9KzwzK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="60" as="sourcePoint" />
+            <mxPoint x="370" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPOfaUPRtYskyF9KzwzK-42" value="查询快照任务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="zPOfaUPRtYskyF9KzwzK-41">
+          <mxGeometry x="-0.5263" y="-1" relative="1" as="geometry">
+            <mxPoint x="-45" y="11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
